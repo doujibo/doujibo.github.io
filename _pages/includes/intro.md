@@ -32,4 +32,6 @@ B.E. in Environmental Engineering, School of Materials and Chemical Engineering,
 西安工业大学 材料与化工学院环境工程专业，工学学士
 
 Last update: 31 March 2026
+欢迎具有环境科学与工程、农业资源与环境、生态学、微生物学、计算机科学、数学等专业或研究背景的本科生、研究生进组交流。
+
 
