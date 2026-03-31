@@ -17,7 +17,7 @@
 [10] **Jibo Dou**, Yichao Xu, Yunfei He, Ruoru Xu, Yao Yue, Feifei Chen, Yuchi Zhong, Xuetong Qu, Jiafeng Ding, Hangjun Zhang\*.  
 *Confined Fe(III) in carbon nitride shifted peroxymonosulfate activation from radical to high-valent iron pathways for efficient dioxin degradation.*  
 **Journal of Hazardous Materials Letters** 2026, 7, 100174.  
-[DOI](https://doi.org/10.1016/j.hazl.2025.100174) | [PDF](https://example.com/paper10.pdf)
+[DOI](https://doi.org/10.1016/j.hazl.2026.100174) | [PDF](https://example.com/paper10.pdf)
 
 [9] Ruoru Xu, Xuetong Qu, Yunfei He, Feifei Chen, Yuchi Zhong, Hangjun Zhang, Jiafeng Ding\*, **Jibo Dou\***.  
 *Methodological Insights into the Occurrence, Conversion, and Control of Polychlorinated Dibenzo-p-Dioxins/Dibenzofurans from Waste Incineration.*  
@@ -36,12 +36,12 @@
 [7] **Jibo Dou**, Xin Su, Jiaxiong Wu, Shuyao Li, Hengyi Dai, Meng Liu, Yao Tang, Zhijiang Lu, Jianming Xu, Yan He\*.  
 *Peroxydisulfate-Driven Reductive Dechlorination as Affected by Soil Constituents: Free Radical Formation and Conversion.*  
 **Environmental Science & Technology** 2024, 58(18), 8065–8075. (Supplementary Cover)  
-[DOI](https://doi.org/10.1021/acs.est.4c01234) | [PDF](https://example.com/paper7.pdf)
+[DOI](https://doi.org/10.1021/acs.est.3c08759) | [PDF](https://example.com/paper7.pdf)
 
 [6] **Jibo Dou**, Yao Tang, Zhijiang Lu, Guangzhi He, Jianming Xu, Yan He\*.  
 *Neglected but Efficient Electron Utilization Driven by Biochar-Coactivated Phenols and Peroxydisulfate: Polyphenol Accumulation Rather than Mineralization.*  
 **Environmental Science & Technology** 2023, 57(14), 5703–5713. (Supplementary Cover)  
-[DOI](https://doi.org/10.1021/acs.est.3c00123) | [PDF](https://example.com/paper6.pdf)
+[DOI](https://doi.org/10.1021/acs.est.3c00022) | [PDF](https://example.com/paper6.pdf)
 
 [5] **Jibo Dou**, Jie Cheng, Zhijiang Lu, Ziqi Tian, Jianming Xu, Yan He\*.  
 *Biochar co-doped with nitrogen and boron switching the free radical based peroxydisulfate activation into the electron-transfer dominated nonradical process.*  
@@ -51,12 +51,12 @@
 [4] **Jibo Dou**, Junyu Chen, Qiang Huang, Hongye Huang, Liucheng Mao, Fengjie Deng, Yuanqing Wen, Xiaoli Zhu\*, Xiaoyong Zhang\*, Yen Wei\*.  
 *Preparation of polymer functionalized layered double hydroxide through mussel-inspired chemistry and Kabachnik–Fields reaction for highly efficient adsorption.*  
 **Journal of Environmental Chemical Engineering** 2020, 8(1), 103634.  
-[DOI](https://doi.org/10.1016/j.jece.2020.103634) | [PDF](https://example.com/paper4.pdf)
+[DOI](https://doi.org/10.1016/j.jece.2019.103634) | [PDF](https://example.com/paper4.pdf)
 
 [3] Xiaoli Zhu\*, **Jibo Dou**, Qiang Huang, Xiaoyong Zhang\*, Yen Wei.  
 *Introducing the Kabachnik–Fields multicomponent reaction for functionalization of multiwalled carbon nanotubes and their performance for removal of methylene blue.*  
 **Journal of the Taiwan Institute of Chemical Engineers** 2019, 100, 85–94.  
-[DOI](https://doi.org/10.1016/j.jtice.2019.04.012) | [PDF](https://example.com/paper3.pdf)
+[DOI](https://doi.org/10.1016/j.jtice.2019.04.008) | [PDF](https://example.com/paper3.pdf)
 
 [2] **Jibo Dou**, Defu Gan, Qiang Huang, Meiying Liu, Junyu Chen, Fengjie Deng, Xiaoli Zhu, Yuanqing Wen\*, Xiaoyong Zhang\*, Yen Wei\*.  
 *Functionalization of carbon nanotubes with chitosan based on MALI multicomponent reaction for Cu²⁺ removal.*  
@@ -66,4 +66,4 @@
 [1] **Jibo Dou**, Qiang Huang, Hongye Huang, Defu Gan, Junyu Chen, Fengjie Deng, Yuanqing Wen, Xiaoli Zhu\*, Xiaoyong Zhang\*, Yen Wei\*.  
 *Mussel-inspired preparation of layered double hydroxides based polymer composites for removal of copper ions.*  
 **Journal of Colloid and Interface Science** 2019, 533, 416–427.  
-[DOI](https://doi.org/10.1016/j.jcis.2018.08.057) | [PDF](https://example.com/paper1.pdf)
+[DOI](https://doi.org/10.1016/j.jcis.2018.08.064) | [PDF](https://example.com/paper1.pdf)
