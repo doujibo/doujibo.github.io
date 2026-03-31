@@ -11,7 +11,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 {% include_relative includes/intro.md %}
 
-If you like the template of this homepage, welcome to star and fork my open-sourced template version [AcadHomepage ![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io?style=social)](https://github.com/RayeRen/acad-homepage.github.io).
+I am always open to collaboration. If you are interested in my research, feel free to contact me via email.  [AcadHomepage ![](https://eng.hznu.edu.cn/c/2026-03-26/3182844.shtml)].
 
 {% include_relative includes/news.md %}
 
