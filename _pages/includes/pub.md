@@ -9,9 +9,7 @@
 
 ## 2025
 
-[11] **Jibo Dou**, Matthias C. Rillig, Mikael S. Hedenqvist, Yan He, Hangjun Zhang\*.  
-*Oligomer nanoparticles challenge the sustainability of biodegradable plastics.*  
-**Cell Reports Sustainability** 2025, 2(12), 100530. (Cover)  [DOI](https://doi.org/10.1016/j.crsus.2025.100530) 
+[11] **Jibo Dou**, Matthias C. Rillig, Mikael S. Hedenqvist, Yan He, Hangjun Zhang\*.  *Oligomer nanoparticles challenge the sustainability of biodegradable plastics.*  **Cell Reports Sustainability** 2025, 2(12), 100530. (Cover)  [DOI](https://doi.org/10.1016/j.crsus.2025.100530) 
 
 <img src="/images/paper11_cover.png" width="150" style="margin-top: 5px;">
 
