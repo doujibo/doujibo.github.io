@@ -1,5 +1,5 @@
 <span class='anchor' id='about-me'></span>
-I am a Lecturer at the School of Engineering, Hangzhou Normal University (杭州师范大学工学院), a position I have held since December 2025. My research focuses on environmental geochemistry, with particular interests in the environmental behavior and effects of free radicals, remediation of organic pollution in soil and water, and biogeochemical cycling of biogenic elements.
+I am currently working as a lecturer at the School of Engineering, Hangzhou Normal University. My research focuses on environmental geochemistry, with particular interests in the environmental behavior and effects of free radicals, remediation of organic pollution in soil and water, and biogeochemical cycling of biogenic elements.
 
 
 <span class='anchor' id='educations'></span>
