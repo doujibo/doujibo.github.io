@@ -15,6 +15,12 @@
 <span class='anchor' id='gallery'></span>
 # 📸 Gallery
 
+- **2026/04 · 广东广州**  
+  第十一届青年地学论坛 
+  <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1rem; margin-top: 0.5rem;">
+    <div><img src="/images/youngearth2026.png" alt="第十一届青年地学论坛" style="width:100%; border-radius: 8px;"></div>
+  </div>
+
 - **2025/11 · 广东江门**  
   研究生参加第十三届全国环境化学大会  
   <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1rem; margin-top: 0.5rem;">
