@@ -15,6 +15,12 @@
 <span class='anchor' id='gallery'></span>
 # 📸 Gallery
 
+- **2026/05 · 海南海口**  
+  2026年全国污染生态学学术研讨会 
+  <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1rem; margin-top: 0.5rem;">
+    <div><img src="/images/hnstx2026.png" alt="2026年全国污染生态学学术研讨会" style="width:100%; border-radius: 8px;"></div>
+  </div>
+  
 - **2026/04 · 广东广州**  
   第十一届青年地学论坛 
   <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1rem; margin-top: 0.5rem;">
