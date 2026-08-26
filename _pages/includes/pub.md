@@ -9,7 +9,7 @@
 
 ## 2025
 
-[12] Jiangpeng Qiao, Ruoru Xu, Xinyan Zhang, **Jibo Dou** \*.  *Developing a novel strategy to assess heterogeneous persulfate oxidation of pollutants.*  **Results in Chemistry** 2026, 2(12), 103788.  [DOI](https://doi.org/10.1016/j.rechem.2026.103788)) 
+[12] Jiangpeng Qiao, Ruoru Xu, Xinyan Zhang, **Jibo Dou** \*.  *Developing a novel strategy to assess heterogeneous persulfate oxidation of pollutants.*  **Results in Chemistry** 2026, 2(12), 103788.  [DOI](https://doi.org/10.1016/j.rechem.2026.103788)
 
 ## 2025
 
