@@ -9,6 +9,10 @@
 
 ## 2025
 
+[12] Jiangpeng Qiao, Ruoru Xu, Xinyan Zhang, **Jibo Dou** \*.  *Developing a novel strategy to assess heterogeneous persulfate oxidation of pollutants.*  **Results in Chemistry** 2026, 2(12), 103788.  [DOI](https://doi.org/10.1016/j.rechem.2026.103788)) 
+
+## 2025
+
 [11] **Jibo Dou**, Matthias C. Rillig, Mikael S. Hedenqvist, Yan He, Hangjun Zhang\*.  *Oligomer nanoparticles challenge the sustainability of biodegradable plastics.*  **Cell Reports Sustainability** 2025, 2(12), 100530. (Cover)  [DOI](https://doi.org/10.1016/j.crsus.2025.100530) 
 
 <img src="/images/paper11_cover.png" width="150" style="margin-top: 5px;">
