@@ -15,6 +15,18 @@
 <span class='anchor' id='gallery'></span>
 # 📸 Gallery
 
+- **2026/08 · 广东、湖南**  
+  为期20天的生态调查  
+  <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1rem; margin-top: 0.5rem;">
+    <div><img src="/images/guangdong2026.png" alt="广东、湖南生态调查" style="width:100%; border-radius: 8px;"></div>
+  </div>
+  
+- **2026/08 · 云南昆明**  
+  2026年有机质与环境过程学术论坛 
+  <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1rem; margin-top: 0.5rem;">
+    <div><img src="/images/OMEP2026.heic" alt="2026年有机质与环境过程学术论坛" style="width:100%; border-radius: 8px;"></div>
+  </div>
+  
 - **2026/05 · 海南海口**  
   2026年全国污染生态学学术研讨会 
   <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1rem; margin-top: 0.5rem;">
