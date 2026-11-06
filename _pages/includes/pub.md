@@ -8,7 +8,8 @@
 ---
 
 ## 2026
-
+[14] **Jibo Dou**, Ruoru Xu, Jiangpeng Qiao, Xinyan Zhang, Hengyi Dai, Kankan Zhao, Tengyun Zhou, Shuyao Li, Yu Han, Yan He, Jiafeng Ding, Hangjun Zhang\*.  *Dark Evolution of Oxalate-Derived Radicals Unlocks Sustainable Decontamination via Soil Component Interactions.*  **Environmental Science & Technology** 2026, 2(12), 103788.  [DOI](https://doi.org/10.1021/acs.est.6c02428)
+[13] **Jibo Dou**\*, Xinyan Zhang, Jiangpeng Qiao, Baile Xu, Yanjie Zhu, Ruoru Xu, Yan He, Jiafeng Ding, Hangjun Zhang\*.  *Dry-surface versus aqueous photoaging of colored microplastics and their mediated co‑pollutant transformation differences.*  **Water Research** 2026, 309, 127183.  [DOI](https://doi.org/10.1016/j.watres.2026.127183)
 [12] Jiangpeng Qiao, Ruoru Xu, Xinyan Zhang, **Jibo Dou** \*.  *Developing a novel strategy to assess heterogeneous persulfate oxidation of pollutants.*  **Results in Chemistry** 2026, 2(12), 103788.  [DOI](https://doi.org/10.1016/j.rechem.2026.103788)
 
 ## 2025
